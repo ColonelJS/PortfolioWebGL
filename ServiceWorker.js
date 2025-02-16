@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-PortfolioWebGL-1.0";
 const contentToCache = [
     "Build/PortfolioWebGL.loader.js",
-    "Build/PortfolioWebGL.framework.js",
-    "Build/PortfolioWebGL.data",
-    "Build/PortfolioWebGL.wasm",
+    "Build/PortfolioWebGL.framework.js.br",
+    "Build/PortfolioWebGL.data.br",
+    "Build/PortfolioWebGL.wasm.br",
     "TemplateData/style.css"
 
 ];
